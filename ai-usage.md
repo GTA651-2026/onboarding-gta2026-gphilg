@@ -10,18 +10,16 @@
 
 ## 1. Outil utilisé
 
-Outil : __
-Version / date d'accès : __
-
-*(Si plusieurs outils, dupliquez cette section.)*
+Outil : Claude (Anthropic) — Claude Sonnet 4.6
+Version / date d'accès : claude.ai, 13 mai 2026
 
 ---
 
 ## 2. Ce qu'il m'a aidé à faire
 
-*(Tâche précise — ex. : « structurer la section ROI », pas : « écrire le travail ».)*
-
-__
+- Structurer les 6 sections de la fiche en langage exécutif à partir de l'article Klarna
+- Formuler le prompt d'analyse de façon professionnelle et reproductible
+- Générer le fichier PDF final (mise en page, tableau, styles)
 
 ---
 
@@ -29,17 +27,20 @@ __
 
 *(Pour chaque affirmation ou chiffre fourni par l'IA → source primaire consultée.)*
 
-- __
-- __
+- 2,3 millions de conversations → article Klarna (lien fourni dans le prompt)
+- 700 agents équivalents → article Klarna
+- Délai : 11 min → moins de 2 min → article Klarna
+- −25 % de répétition des requêtes → article Klarna
+- +40 M $ USD de profit projeté → article Klarna
+- 23 marchés, 35+ langues, 24/7 → article Klarna
 
 ---
 
 ## 4. Ce que j'ai modifié ou rejeté
 
-*(Ce que l'IA a proposé mais que vous avez changé, corrigé ou écarté — et pourquoi.)*
-
-- __
-- __
+- J'ai choisi le cas Klarna parmi les trois proposés — décision personnelle
+- J'ai validé que les chiffres cités correspondaient bien à l'article source avant d'accepter la réponse
+- J'ai demandé un prompt séparé à soumettre au professeur — initiative personnelle non suggérée par l'IA
 
 ---
 
@@ -48,5 +49,5 @@ __
 Je déclare que le contenu final reflète mon jugement personnel. Je suis responsable
 de l'exactitude, de la pertinence et du raisonnement — outil IA utilisé ou non.
 
-Nom : __
-Date : __
+Nom : Philippe Giguère
+Date : 2026-05-13
