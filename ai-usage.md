@@ -1,5 +1,7 @@
 # Divulgation d'usage de l'IA — ai-usage.md
 
+> **Livrable concerne :** [L1 — Fiche d'opportunite agentique](portfolio/L1_reflexion_role_specialise.md) ([PDF](portfolio/L1_reflexion_role_specialise.pdf))
+
 > Remplissez ce fichier pour chaque milestone avant de soumettre.
 > Si aucun outil IA n'a été utilisé, écrivez « Aucun » dans chaque section et signez.
 > **Obligatoire même en cas d'absence d'usage.**
